@@ -1,0 +1,39 @@
+body {
+	background-color: #3b3a38;
+	color: white;
+}
+.center-screen {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	min-height: 100vh;
+ }
+.morse-box {
+	background-color: #36383B;
+	width: 300px;
+	height: 300px;
+	border-radius: 10px;
+}
+.centered {
+	margin: 0;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-right: -50%;
+	transform: translate(-50% , -50%);
+}
+.container {
+	font-size: 2em;
+	background-color: #36383B;
+	border-color: white;
+	border-radius: 0px 0px 10px 10px;
+}
+footer {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	text-align: center;
+}

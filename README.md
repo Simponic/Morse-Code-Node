@@ -8,6 +8,7 @@ My first program with sockets in JavaScript (Warning: extremely buggy)
 * npm
 * socket.io ```npm install socket.io```
 * express ```npm install express```
+* ejs ``` npm install ejs```
 
 ---
 
