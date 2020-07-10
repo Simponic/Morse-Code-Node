@@ -9,7 +9,11 @@ My first program with sockets in JavaScript (Warning: extremely buggy)
 
 To run server on port 8080
 
-Connect to server using a web browser and morse away!
+---
+
+## Connecting
+
+Connect to server using a web browser to your ip on port 8080 and morse away!
 
 Test with multiple windows, or something!
 
