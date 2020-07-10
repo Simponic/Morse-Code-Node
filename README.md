@@ -3,6 +3,14 @@ My first program with sockets in JavaScript (Warning: extremely buggy)
 
 ---
 
+## Dependencies
+
+* npm
+* socket.io ```npm install socket.io```
+* express ```npm install express```
+
+---
+
 ## Usage:
 
 ```nodejs index.js```
